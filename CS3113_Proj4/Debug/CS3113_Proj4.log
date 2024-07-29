@@ -1,0 +1,10 @@
+﻿  Entity.cpp
+  Map.cpp
+C:\Users\jlao\source\repos\CS3113_Proj4\CS3113_Proj4\Map.cpp(103,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jlao\source\repos\CS3113_Proj4\CS3113_Proj4\Map.cpp(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ShaderProgram.cpp
+  main.cpp
+C:\Users\jlao\source\repos\CS3113_Proj4\CS3113_Proj4\main.cpp(137,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jlao\source\repos\CS3113_Proj4\CS3113_Proj4\main.cpp(360,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  CS3113_Proj4.vcxproj -> C:\Users\jlao\source\repos\CS3113_Proj4\Debug\CS3113_Proj4.exe
